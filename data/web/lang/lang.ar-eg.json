@@ -20,7 +20,7 @@
         "quarantine_category": "تغيير فئة إشعارات العزل",
         "quarantine_notification": "تغيير إشعارات العزل",
         "ratelimit": "حد المعدل",
-        "recipient_maps": "خرائط المستقبل",
+        "recipient_maps": "خرائط المستلمين",
         "smtp_ip_access": "تغيير المضيفين المسموحين لـ SMTP",
         "sogo_access": "السماح بإدارة وصول SOGo",
         "sogo_profile_reset": "إعادة تعيين ملف تعريف SOGo",
